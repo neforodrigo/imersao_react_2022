@@ -38,7 +38,7 @@ export default function PaginaInicial() {
 			     <GlobalStyle />
 					 <Box 
 					 
-					 ```
+```
 
 Vários *boxes* são *divs*. Um deles tem o `as="form"`, que está mudando algo como a *tag* dele, um *box* como formulário. Em seguida, o `styleSheet={{` com todos os estilos que estamos passando. Mais abaixo, existe a área da foto, que comparamos no GitHub. Inclusive, fica esse segredo: se você pegar qualquer usuário do GitHub e colocar `.png` no final, você consegue pegar a imagem `.png` da pessoa que você segue ou do seu próprio usuário. 
 
@@ -106,7 +106,7 @@ Como fazemos esse processo todo acontecer? Vamos ao nosso código. Nele temos a 
       fullWidth
 			textFieldColors={{
 			 
-		```
+```
 
 Ao voltar à página (localhost 3000), tivemos um `input` meio "feio", mas funcional. Se digitarmos o *username* no campo de login, ele está aparecendo. Gostaria de perguntar sobre o `input`, Paulo, você se lembra, no tempo em que fazia as integrações do Java para HTML, qual era a propriedade com que definimos um valor inicial para um campo?
 
@@ -124,7 +124,7 @@ Ao voltar à página (localhost 3000), tivemos um `input` meio "feio", mas funci
 		 value="peas"
 	/>
 	
-	```
+```
 
 Ao retornar à página, notaremos que "peas" já aparece no campo de login. Ou seja, o `value` apareceu. A nossa meta será: sempre que digitarmos, mudar tanto a foto que pegaremos do GitHub, quanto o texto que aparece abaixo da foto, "peas". Essa é a nossa primeira missão. 
 
