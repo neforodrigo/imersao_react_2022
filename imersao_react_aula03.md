@@ -33,9 +33,6 @@ Essa é uma visão que me surpreendeu bastante, essa questão do que fazer como 
 
 Vou copiar a URL da minha famosa "colinha" e abri-la no navegador. Lá, teremos um código que preparamos anteriormente com vários componentes. Ainda incluiremos outras coisas nas próximas aulas, mas essa é a parte inicial que nos ajudará a dar os primeiros passos.
 
-```
-inserir código da aula 3???
-```
 
 Vou copiar o código disponível nessa página, lembrando que o link ficará disponível na descrição da aula, e colá-lo no arquivo `chat.js`. 
 
